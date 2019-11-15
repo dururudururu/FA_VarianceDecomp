@@ -1,4 +1,4 @@
-> lavaan
+```R
 function (model = NULL, data = NULL, ordered = NULL, sampling.weights = NULL, 
     sample.cov = NULL, sample.mean = NULL, sample.th = NULL, 
     sample.nobs = NULL, group = NULL, cluster = NULL, constraints = "", 
@@ -815,3 +815,4 @@ function (model = NULL, data = NULL, ordered = NULL, sampling.weights = NULL,
 }
 <bytecode: 0x00000000149dd7e0>
 <environment: namespace:lavaan>
+```
